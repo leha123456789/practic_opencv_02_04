@@ -1,0 +1,1 @@
+# practic_opencv_02_04
